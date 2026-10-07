@@ -1,2 +1,4 @@
-# quotes
-Fancy quotes for desktops
+# Wallpaper quotes
+
+My personal set of wallpapers for desktop.
+
